@@ -1,0 +1,8 @@
+export { default as Header } from './Header.svelte'
+export { default as HeroSection } from './HeroSection.svelte'
+export { default as CustomerLogos } from './CustomerLogos.svelte'
+export { default as PlatformFeatures } from './PlatformFeatures.svelte'
+export { default as TheSquintDifference } from './TheSquintDifference.svelte'
+export { default as UseCases } from './UseCases.svelte'
+export { default as SecurityandCompliance } from './SecurityandCompliance.svelte'
+export { default as Footer } from './Footer.svelte'
