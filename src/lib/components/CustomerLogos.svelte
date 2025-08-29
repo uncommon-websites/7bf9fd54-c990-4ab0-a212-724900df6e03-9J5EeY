@@ -12,17 +12,17 @@
   // The list of logos is defined as a raw, non-reactive array for performance,
   // as it's static content. It's duplicated in the template for the seamless scroll effect.
   const logos: Logo[] = $state.raw([
-    { src: "https://logo.clearbit.com/boeing.com", alt: "Boeing logo" },
-    { src: "https://logo.clearbit.com/ge.com", alt: "General Electric logo" },
-    { src: "https://logo.clearbit.com/caterpillar.com", alt: "Caterpillar logo" },
-    { src: "https://logo.clearbit.com/honeywell.com", alt: "Honeywell logo" },
-    { src: "https://logo.clearbit.com/3m.com", alt: "3M logo" },
-    { src: "https://logo.clearbit.com/ford.com", alt: "Ford logo" },
-    { src: "https://logo.clearbit.com/johndeere.com", alt: "John Deere logo" },
-    { src: "https://logo.clearbit.com/siemens.com", alt: "Siemens logo" },
-    { src: "https://logo.clearbit.com/boeing.com", alt: "Boeing logo" },
-    { src: "https://logo.clearbit.com/ge.com", alt: "General Electric logo" },
-    { src: "https://logo.clearbit.com/caterpillar.com", alt: "Caterpillar logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
+    { src: "https://www.ledr.com/colours/black.jpg", alt: "customer logo" },
   ]);
 </script>
 
