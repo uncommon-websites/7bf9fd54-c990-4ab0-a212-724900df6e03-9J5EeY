@@ -20,31 +20,33 @@
     {
       title: 'Product',
       links: [
-        { href: '#', text: 'Platform' },
-        { href: '#', text: 'Use Cases' },
-        { href: '#', text: 'Customers' },
+        { href: '#platform', text: 'Platform' },
+        { href: '#use-cases', text: 'Use Cases' },
+        { href: '#customers', text: 'Customers' },
+      ],
+    },
+    {
+      title: 'Solutions',
+      links: [
+        { href: '#', text: 'Manufacturing' },
+        { href: '#', text: 'Training' },
+        { href: '#', text: 'Quality Control' },
+      ],
+    },
+    {
+      title: 'Resources',
+      links: [
+        { href: '#security', text: 'Security' },
+        { href: '#', text: 'Documentation' },
+        { href: '#', text: 'Contact Us' },
       ],
     },
     {
       title: 'Company',
       links: [
         { href: '#', text: 'About Us' },
-        { href: '#', text: 'Blog' },
         { href: '#', text: 'Careers' },
-      ],
-    },
-    {
-      title: 'Resources',
-      links: [
-        { href: '#', text: 'Security' },
-        { href: '#', text: 'Contact Us' },
-      ],
-    },
-    {
-      title: 'Legal',
-      links: [
         { href: '#', text: 'Privacy Policy' },
-        { href: '#', text: 'Terms of Service' },
       ],
     },
   ]);

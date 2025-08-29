@@ -15,32 +15,32 @@
 		{
 			id: 'new-hire-onboarding',
 			title: 'New Hire Onboarding',
-			description: 'Get new team members up to speed in record time with clear, visual work instructions.',
-			image: 'https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+			description: 'Get new team members up to speed in record time with clear, visual work instructions that capture your experienced workers\' knowledge.',
+			image: '/generated/image-an-experienced-manufacturing-technician-.webp'
 		},
 		{
 			id: 'standardizing-workflows',
 			title: 'Standardizing Workflows',
-			description: 'Ensure every task is performed the same way, every time, reducing errors and improving quality.',
-			image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+			description: 'Ensure every manufacturing task is performed the same way, every time, reducing errors and improving quality across all shifts.',
+			image: '/generated/image-an-industrial-assembly-line-scene-with-w.webp'
 		},
 		{
 			id: 'quality-control-checks',
 			title: 'Quality Control Checks',
-			description: 'Document and verify quality checks with visual proof, creating an auditable trail of compliance.',
-			image: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+			description: 'Document and verify quality control procedures with visual proof, creating an auditable trail of compliance for manufacturing standards.',
+			image: '/generated/image-a-quality-control-inspector-examining-a-.webp'
 		},
 		{
 			id: 'capturing-tribal-knowledge',
 			title: 'Capturing Tribal Knowledge',
-			description: 'Preserve the expertise of your most experienced workers before they retire or leave.',
-			image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+			description: 'Preserve the expertise of your most experienced manufacturing workers before they retire or leave, ensuring critical knowledge stays with your company.',
+			image: '/generated/image-an-operations-manager-in-a-factory-revie.webp'
 		},
 		{
 			id: 'safety-compliance',
 			title: 'Safety & Compliance',
-			description: 'Create easy-to-follow safety procedures and compliance checklists that are always accessible.',
-			image: 'https://images.unsplash.com/photo-1581092921461-e71d50a13f33?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600'
+			description: 'Create easy-to-follow safety procedures and compliance checklists that are always accessible on the factory floor.',
+			image: '/generated/image-a-safety-compliance-check-in-a-manufactu.webp'
 		}
 	]);
 
@@ -86,8 +86,7 @@
 						Solve Your Biggest <span class="text-gray-500">Operational Challenges</span>
 					</h2>
 					<p class="font-body max-w-md text-lg leading-relaxed text-gray-700">
-						Empower your operations managers to standardize processes, reduce training time, and
-						preserve critical knowledge.
+						Transform how your manufacturing facility captures, standardizes, and shares critical process knowledge across teams and shifts.
 					</p>
 				</div>
 			</header>

@@ -65,12 +65,10 @@
 				<div class="flex flex-col justify-between rounded-2xl bg-white p-6 shadow-sm lg:p-8">
 					<div>
 						<h3 class="font-display text-xl leading-snug tracking-tight text-gray-900">
-							Built for How Your Team Actually Works.
+							Built for Manufacturing, Not Generic Office Work.
 						</h3>
 						<p class="font-body mt-2 text-sm leading-6 text-gray-700">
-							Generic video recorders (Loom) and text wikis (Notion) aren't built for procedural
-							training. Squint's visual recognition is designed to capture the nuance of hands-on
-							work.
+							Generic video recorders (Loom) and text wikis (Notion) weren't designed for manufacturing processes. Squint's visual recognition technology understands the complexity of hands-on manufacturing work and equipment operation.
 						</p>
 						<div class="mt-8">
 							<div class="flex h-48 items-end justify-between gap-x-4 px-2 text-center">
